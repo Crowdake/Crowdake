@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Crowdake
+- 👀 I’m interested in programming web apps and software.
+- 🌱 I’m currently learning network introduction and computer systems.
+- 💞️ I’m looking to collaborate on making apps.
+- 📫 How to reach me: jaime_jesabel@hotmail.com
