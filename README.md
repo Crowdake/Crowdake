@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crowdake
+- 👋 Hi, I’m Jaime
 - 👀 I’m interested in programming web apps and software.
 - 🌱 I’m currently learning network introduction and computer systems.
 - 💞️ I’m looking to collaborate on making apps.
